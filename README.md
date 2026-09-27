@@ -5,6 +5,14 @@ Je travaille sur la donnée au service de la décision : rapprocher des fichiers
 
 Stage de juin à août 2026 à la **Direction Générale des Impôts du Cameroun** (DSSI, Unité technique de traitement et d'analyse de données).
 
+## Projet phare
+
+### [ArchivIA](https://github.com/Ledur06/archivia)
+Convertit des archives PDF natives ou scannées en classeurs Excel structurés et contrôlés.
+- OCR (Tesseract) et détection des grilles de tableaux sur les scans.
+- Reconstitution des tableaux étalés sur plusieurs pages, traçabilité de chaque ligne jusqu'à sa page d'origine.
+- Feuille de contrôle qualité qui signale les zones incertaines ; fonctionnement hors ligne.
+
 ## Stage à la DGI
 
 - Mémoire de licence (soutenu le 24 septembre 2026, 17/20) : spécification d'un outil de suivi fiscal des titulaires de commandes publiques, rapprochement de fichiers administratifs et fiabilisation des identifiants.
