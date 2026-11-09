@@ -1,6 +1,6 @@
 # Henri Ledoux Same
 
-Diplômé d'une **Licence en Management et Techniques Quantitatives** (Institut Universitaire Saint Jean, Yaoundé), mention très bien.
+Diplômé d'une **Licence professionnelle en Management et Techniques Quantitatives** (Institut Universitaire Saint Jean, Yaoundé), mention assez bien.
 Je travaille sur la donnée au service de la décision : rapprocher des fichiers administratifs, fiabiliser des identifiants, mesurer, puis restituer dans un outil qu'un service peut utiliser.
 
 Stage de juin à août 2026 à la **Direction Générale des Impôts du Cameroun** (DSSI, Unité technique de traitement et d'analyse de données).
